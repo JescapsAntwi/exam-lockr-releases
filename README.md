@@ -23,11 +23,18 @@ Not sure which Linux build? Run `uname -m`. `x86_64` is the first one,
 
 ## Installing
 
-**Windows (portable)** — download and double-click. No installation, no admin
-rights needed.
+**Windows** — you may hit two warnings, both expected:
 
-**Windows (installer)** — run it and follow the prompts. If you see
-*"Windows protected your PC"*, click **More info → Run anyway**.
+1. **Chrome:** *"…isn't commonly downloaded"* — click the arrow beside the
+   download and choose **Keep**. ExamLockr is new, so few people have downloaded
+   it yet. That is all the warning means.
+2. **Windows:** *"Windows protected your PC"* — click **More info** →
+   **Run anyway**.
+
+Then: the **portable** build just runs when you double-click it — no installation
+and no admin rights. The **installer** build runs a normal setup wizard.
+
+Do this before your exam starts, not during it.
 
 **macOS** — open the `.dmg` and drag ExamLockr to Applications. On first launch,
 right-click the app → **Open** → **Open**.
